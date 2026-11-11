@@ -20,6 +20,7 @@ network:
     - awesome-copilot.github.com
 engine:
   id: copilot
+  version: "1.0.91"
   copilot-sdk: true
 ---
 
